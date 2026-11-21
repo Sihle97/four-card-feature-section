@@ -13,3 +13,7 @@
  --white: hsl(0, 0%, 100%);
 }
 
+main {
+    font-family: "Poppins", sans-serif;
+}
+
