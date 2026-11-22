@@ -15,5 +15,53 @@
 
 main {
     font-family: "Poppins", sans-serif;
+
+    text-align: center;
 }
 
+h1 {
+    font-size: 1rem;
+    font-weight: 200;
+    color: var(--grey-400);
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--grey-500);
+    margin-top: 0;
+}
+
+.card {
+    border: 0.5rem solid var(--white);
+    border-radius: 0.5rem;
+
+    width: 90%;
+    box-shadow: 5px 5px 5px var(--grey-400);
+
+    margin-bottom: 1rem;
+    margin-inline: auto; 
+}
+
+.intelligence {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#supervisor {
+    border-top-color: var(--cyan);
+    margin-top: 1rem;
+}
+
+#team-builder {
+    border-top-color: var(--red);
+}
+
+#karma {
+    border-top-color: var(--orange);
+}
+
+#calculator {
+    border-top-color: var(--blue);
+}
