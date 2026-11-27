@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sihle97/four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://sihle97.github.io/four-card-feature-selection)
+- Solution URL: [GitHub Link](https://github.com/Sihle97/four-card-feature-section)
+- Live Site URL: [Site](https://sihle97.github.io/four-card-feature-selection)
 
 ## My process
 
